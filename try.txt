@@ -1,3 +1,4 @@
+222333333333333333333333333333333
 Notepad++ v7.8.4 bug-fixes:
 
 1.  Fix regression of double clicking a found in files result while Word-Wrap is on.
